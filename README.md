@@ -1,26 +1,25 @@
 home page:
 
-![Screenshot (22)](https://github.com/user-attachments/assets/d2069082-4a41-40fe-a753-8f7b38892500)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/899adb8b-204e-48d4-bc2a-50f3c7bae3ca)
+
+Register-page:
+
+![Screenshot (29)](https://github.com/user-attachments/assets/4f12b3fe-cf16-4879-8e96-726b08da91a4)
+
+Login-page:
+
+![Screenshot (30)](https://github.com/user-attachments/assets/bfc5f3e3-528c-4902-a7bd-fbd7b372c8b0)
+
+DashBord:
 
 
-registration page:
+![Screenshot (31)](https://github.com/user-attachments/assets/60d20b9d-dbaa-43b6-b83a-2a2cb415bd1d)
 
+Create-Employee:
 
-![Screenshot (23)](https://github.com/user-attachments/assets/b0a5d7ac-1676-4e3f-9c68-494c1b22c04e)
+![Screenshot (32)](https://github.com/user-attachments/assets/e165d8c6-38ed-45b6-b5b6-b02f4c89292a)
 
-login page:
+display-employe:
 
-![Screenshot (24)](https://github.com/user-attachments/assets/7d42ef49-19cb-4144-912f-28ab85788046)
-
-dashbord:
-
-![Screenshot (25)](https://github.com/user-attachments/assets/003336a7-7976-4c80-a2b8-1433e0d59849)
-
-Create Employee:
-
-
-![Screenshot (26)](https://github.com/user-attachments/assets/ceac2925-41c0-457b-80b8-a8324854f324)
-
-employee-list:
-
-![Screenshot (27)](https://github.com/user-attachments/assets/c2a81dbe-2205-4fda-ac82-1e196a5481a0)
+![Screenshot (33)](https://github.com/user-attachments/assets/79e16307-3445-46f5-825e-ef82228ad795)
