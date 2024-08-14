@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#box-1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./assets/background-learner1.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box-1 .container{
+    width: 50%;
+    height: 700px;
+    background-color:transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(17, 50, 30);
+    box-shadow: 3px 3px 3px #050505;
+    border-radius: 10px;
+}
+button{
+    margin-top: 10px
+}
