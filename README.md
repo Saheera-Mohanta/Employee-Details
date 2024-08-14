@@ -20,3 +20,7 @@ Create Employee:
 
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/ceac2925-41c0-457b-80b8-a8324854f324)
+
+employee-list:
+
+![Screenshot (27)](https://github.com/user-attachments/assets/c2a81dbe-2205-4fda-ac82-1e196a5481a0)
